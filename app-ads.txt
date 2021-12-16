@@ -1,2 +1,1 @@
-google.com, pub-2820243726232967, DIRECT, f08c47fec0942fa0
 mopub.com, a37ef5de93cc4af094143cc7716aa7d8, DIRECT, 74b46c0ea83967ca
